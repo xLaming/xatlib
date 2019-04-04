@@ -24,9 +24,9 @@ All in one ready to use in your application xat-based.
 * PopularCountries();
 
 # Installing:
-* _composer install
+* composer install
 * Edit the file **example.php** or add it whatever you want
-* _php example.php 
+* php example.php 
 
 # Information:
 * License: MIT
