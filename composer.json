@@ -1,0 +1,19 @@
+{
+    "name": "paulo/xatlib",
+    "description": "All in your for your xat-based application.",
+    "authors": [
+        {
+            "name": "xLaming",
+            "email": "paulo@wnfstudios.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Core": "src/"
+        }
+    }
+}
