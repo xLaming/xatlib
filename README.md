@@ -30,4 +30,4 @@ All in one ready to use in your application xat-based.
 
 # Information:
 * License: MIT
-* Version: 2.0
+* Version: 2.1
