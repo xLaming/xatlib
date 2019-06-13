@@ -40,7 +40,7 @@ class Settings {
         'id' => 'https://xat.com/web_gear/chat/profile.php?name=%s',
         'rg' => 'https://xat.com/web_gear/chat/profile.php?id=%d',
         'gt' => 'https://xat.com/web_gear/chat/gifts.php?id=%d',
-        'al' => 'http://www.alexa.com/siteinfo/xat.com?ver=classic'
+        'al' => 'http://www.alexa.com/siteinfo/xat.com'
     ];
         
     /* Special xat IDs - touch only when xat changes */
